@@ -26,5 +26,3 @@ Applied agglomerative hierarchical clustering for finding out the typical icecre
 ![clustering](https://github.com/skywalker023/foodstagram_ingredient_analysis/blob/master/visualization%20images/icecream_agglomerative.png?raw=true)
 
 Nicely showing the cultural difference amoung countries. More can be found in the visualization_images directory.
- 
-Currently in progress...
